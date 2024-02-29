@@ -1,0 +1,27 @@
+{
+    "manifest_version": 2,
+    "name": "Simple Proxy",
+    "version": "1.0",
+    "permissions": [
+      "proxy",
+      "tabs",
+      "storage",
+      "webRequest",
+      "webRequestBlocking",
+      "<all_urls>"
+    ],
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": true
+    },
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "48": "icon.png"
+      }
+    },
+    "icons": {
+      "48": "icon.png"
+    }
+  }
+  

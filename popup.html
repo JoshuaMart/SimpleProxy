@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Simple Proxy - Options</title>
+    <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+    <label for="proxyToggle"><input type="checkbox" id="proxyToggle">Enable Proxy</label>
+
+    <div>
+        <input type="text" id="proxyHost" placeholder="127.0.0.1">
+        <input type="number" id="proxyPort" placeholder="8080">
+    </div>
+
+    <hr />
+
+    <label for="transparentCheckbox"><input type="checkbox" id="transparentCheckbox">Enable X-PwnFox-Color Header</label>
+
+    <div id="colorPicker">
+        <div class="colorSquare" data-color="red" style="background-color: #c0392b;"></div>
+        <div class="colorSquare" data-color="orange" style="background-color: #e67e22;"></div>
+        <div class="colorSquare" data-color="yellow" style="background-color: #f1c40f;"></div>
+        <div class="colorSquare" data-color="green" style="background-color: #27ae60;"></div>
+        <div class="colorSquare" data-color="blue" style="background-color: #2980b9;"></div>
+        <div class="colorSquare" data-color="violet" style="background-color: #8e44ad;"></div>
+    </div>
+    <script src="popup.js"></script>
+</body>
+</html>
