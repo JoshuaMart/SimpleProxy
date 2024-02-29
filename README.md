@@ -2,8 +2,8 @@
 
 <hr />
 
-Simple Proxy is a lightweight alternative to [PwnFox](https://github.com/yeswehack/PwnFox) for Chrome Extension 
-Not as practical as Firefox's container tabs, but can be used to apply a color header according to a Chrome profile.
+Simple Proxy is a lightweight alternative to [PwnFox](https://github.com/yeswehack/PwnFox) for Chrome.   
+Is not practical as Firefox's container tabs, but this extension can be used to apply a color to your requests according a Chrome profile.
 
 > [!IMPORTANT]  
 > This extension is in no related to PwnFox or YesWeHack
