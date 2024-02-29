@@ -12,9 +12,9 @@ Is not practical as Firefox's container tabs, but this extension can be used to 
 
 ## Installation
 
-1/ Download & Install the PwnFox Jar for BurpSuite : https://github.com/yeswehack/PwnFox/releases
-2/ Download & Install the Chrome extension from [releases](https://github.com/JoshuaMart/SimpleProxy/releases/) page
- 
+  * Download & Install the PwnFox Jar for BurpSuite : https://github.com/yeswehack/PwnFox/releases  
+  * Download & Install the Chrome extension from [releases](https://github.com/JoshuaMart/SimpleProxy/releases/) page
+
 ## Credit
   * YesWeHack - Bitk for [PwnFox](https://github.com/yeswehack/PwnFox)
   * Icon made by Good Ware - [Flaticon](https://www.flaticon.com)
