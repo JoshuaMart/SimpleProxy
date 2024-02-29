@@ -8,7 +8,7 @@ Not as practical as Firefox's container tabs, but can be used to apply a color h
 > [!IMPORTANT]  
 > This extension is in no related to PwnFox or YesWeHack
 
-<p align="center"><a href="https://zupimages.net/viewer.php?id=24/09/8j08.png"><img src="https://zupimages.net/up/24/09/8j08.png" alt="" /></a></p>
+<p align="center"><img src="https://zupimages.net/up/24/09/6iqn.png" alt="" /></p>
 
 ## Installation
 
