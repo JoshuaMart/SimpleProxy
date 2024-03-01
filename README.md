@@ -15,7 +15,7 @@ Is not practical as Firefox's container tabs, but this extension can be used to 
   * Download & Install the [PwnFox Jar](https://github.com/yeswehack/PwnFox/releases) for BurpSuite
   * Install the extension (Currently not available on the Chrome WebStore)
     * Clone the repository
-    * Go to [brave://extensions/](brave://extensions/) / [chrome://extensions/](chrome://extensions/)
+    * Go to `brave://extensions/` / `chrome://extensions/`
     * Enable developer mode (top right)
     * Click on "_Load unpacked extension_" and select the src folder
 
