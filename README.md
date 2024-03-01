@@ -8,12 +8,16 @@ Is not practical as Firefox's container tabs, but this extension can be used to 
 > [!IMPORTANT]  
 > This extension is in no related to PwnFox or YesWeHack
 
-<p align="center"><img src="https://zupimages.net/up/24/09/6iqn.png" alt="" /></p>
+<p align="center"><img src="https://zupimages.net/up/24/09/11fi.png" alt="Simple Proxy" /></p>
 
 ## Installation
 
   * Download & Install the [PwnFox Jar](https://github.com/yeswehack/PwnFox/releases) for BurpSuite
-  * Download & Install the Chrome extension from [releases](https://github.com/JoshuaMart/SimpleProxy/releases/) page
+  * Install the extension (Currently not available on the Chrome WebStore)
+    * Clone the repository
+    * Go to [brave://extensions/](brave://extensions/) / [chrome://extensions/](chrome://extensions/)
+    * Enable developer mode (top right)
+    * Click on "_Load unpacked extension_" and select the src folder
 
 ## Credit
   * YesWeHack - Bitk for [PwnFox](https://github.com/yeswehack/PwnFox)
