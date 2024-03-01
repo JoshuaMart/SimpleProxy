@@ -1,18 +1,30 @@
 body {
     background-color: #2a2a2e;
     color: white;
+    width: 230px;
+    margin-top: 10px;
     font-family: Arial, sans-serif;
+}
+
+input {
+    margin-bottom: 10px;
 }
 
 
 input[type=checkbox] { 
     vertical-align: middle; 
     position: relative; 
-    bottom: 1px; 
-} 
+    bottom: -2px;
+}
+
+hr {
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
   
 label { 
-    display: block; 
+    display: block;
+    margin-bottom: 5px; 
 } 
 
 .colorSquare {
