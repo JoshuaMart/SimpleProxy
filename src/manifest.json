@@ -4,9 +4,7 @@
     "version": "1.0",
     "permissions": [
       "proxy",
-      "tabs",
       "storage",
-      "webRequest",
       "declarativeNetRequest",
       "declarativeNetRequestFeedback"
     ],
